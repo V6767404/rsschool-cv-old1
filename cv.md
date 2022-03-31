@@ -6,13 +6,13 @@
 * **E-mail:** [vic.yanushkevich@gmail.com](vic.yanushkevich@gmail.com)
 * **GitHub:** [V6767404](https://github.com/V6767404/)
 * **Skype** [yanush44](https://skype:yanush44)
+* **Discord** VictorY#6772
 
 ## Summary
 
 I’m a Front-End Developer with practical experience. Continuously gaining knowledge in the field of Front-End. My skill points are:
 
-  * HTML, CSS (Bootstrap, SASS/SCSS, BEM)
-  * JavaScript (Fundamentals, ES6+, DOM, JSON)
+  * HTML, CSS, JavaScript
   * Git/GitHub
   * Photoshop, Figma, UX/UI
   * Solid technical background
